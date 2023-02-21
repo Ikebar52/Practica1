@@ -1,0 +1,3 @@
+\\disc\personal\Programacion_II\Practica1\Pract1\Pract1\obj\Debug\Pract1.csproj.AssemblyReference.cache
+\\disc\personal\Programacion_II\Practica1\Pract1\Pract1\obj\Debug\Pract1.csproj.SuggestedBindingRedirects.cache
+\\disc\personal\Programacion_II\Practica1\Pract1\Pract1\obj\Debug\Pract1.csproj.CoreCompileInputs.cache
