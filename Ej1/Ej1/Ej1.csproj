@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5CE1784B-C440-46F3-80BD-A5BAAD080CDF}</ProjectGuid>
+    <ProjectGuid>{68883AFA-0BD1-4807-9DA6-6EDFAC5D5B32}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Pract1</RootNamespace>
-    <AssemblyName>Pract1</AssemblyName>
+    <RootNamespace>Ej1</RootNamespace>
+    <AssemblyName>Ej1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

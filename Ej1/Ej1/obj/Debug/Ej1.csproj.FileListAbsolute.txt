@@ -1,0 +1,8 @@
+\\disc\personal\Progra2\Practica1\Ej1\Ej1\bin\Debug\Ej1.exe.config
+\\disc\personal\Progra2\Practica1\Ej1\Ej1\bin\Debug\Ej1.exe
+\\disc\personal\Progra2\Practica1\Ej1\Ej1\bin\Debug\Ej1.pdb
+\\disc\personal\Progra2\Practica1\Ej1\Ej1\obj\Debug\Ej1.csproj.AssemblyReference.cache
+\\disc\personal\Progra2\Practica1\Ej1\Ej1\obj\Debug\Ej1.csproj.SuggestedBindingRedirects.cache
+\\disc\personal\Progra2\Practica1\Ej1\Ej1\obj\Debug\Ej1.csproj.CoreCompileInputs.cache
+\\disc\personal\Progra2\Practica1\Ej1\Ej1\obj\Debug\Ej1.exe
+\\disc\personal\Progra2\Practica1\Ej1\Ej1\obj\Debug\Ej1.pdb
